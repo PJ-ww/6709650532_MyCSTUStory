@@ -16,19 +16,47 @@ header, footer, main{
 
 header{
     width: 100%;
-    background-color: #DBA979;
     font-family: Arvo;
+    background-image: url(https://i.pinimg.com/474x/15/60/b0/1560b02964b49f94cec234372f9b43b5.jpg);
 }
 
 footer{
     width: 100%;
     clear: both;
-    background-color: #DBA979;
     font-family: Arvo;
+    background-image: url(https://i.pinimg.com/474x/15/60/b0/1560b02964b49f94cec234372f9b43b5.jpg);
 }
 
 main{
-    height: 400px;
-    background-color: #ECCA9C;
+    height: 600px;
+    background-color: #fcd5ce;
     font-family: Noto Sans Thai Looped;
+    background-image: url(https://i.pinimg.com/236x/7f/85/d6/7f85d66a481543f67d778c8cb3c7336a.jpg);
+}
+
+main h3{
+    padding: 20px;
+    border-radius: 8px;
+    background-color: aliceblue;
+    margin-top: 20px;
+}
+
+main .img1 {
+    width: 30%;
+    margin-top: 10px;
+    float: left;
+}
+
+main .img2{
+    width: 30%;
+    border-radius: 100%;
+    margin-top: 20px;
+    float: left;
+}
+
+main .img3{
+    width: 30%;
+    border-radius: 100%;
+    margin: 40px;
+    float: left;
 }
