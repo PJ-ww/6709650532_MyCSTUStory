@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Sriracha&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Thai+Looped:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+
+header, footer, main{
+    padding: 10px;
+    border: 1px solid rgb(247, 247, 247);
+    text-align: center;
+}
+
+header{
+    width: 100%;
+    background-color: #DBA979;
+    font-family: Arvo;
+}
+
+footer{
+    width: 100%;
+    clear: both;
+    background-color: #DBA979;
+    font-family: Arvo;
+}
+
+main{
+    height: 400px;
+    background-color: #ECCA9C;
+    font-family: Noto Sans Thai Looped;
+}

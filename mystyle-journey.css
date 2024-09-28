@@ -21,7 +21,6 @@ Header, footer
 
 header{
     width: 100%;
-    background-color: #D2E0FB;
     background-image: url(https://i.pinimg.com/236x/19/35/b2/1935b2e10e5ac6aa427f87d52c0c2621.jpg);
 }
 
@@ -58,6 +57,12 @@ main{
     padding: 20px;
     border: 1px solid rgb(255, 255, 255);
     background-image: url(https://i.pinimg.com/236x/36/9c/f9/369cf9413b005a2aac6d3982c04b7867.jpg);
+}
+
+main img{
+    width: 30%;
+    border-radius: 100%;
+    margin-top: 10px;
 }
 
 .first-year {
