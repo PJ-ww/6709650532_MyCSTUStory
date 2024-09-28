@@ -33,7 +33,7 @@ footer{
 
 nav{
     width: 15%;
-    height: 900px;
+    height: 960px;
     float: left;
     padding-top: 50px;
     text-align: center;
@@ -53,7 +53,7 @@ nav ul li a:hover{
 
 main{
     width: 85%;
-    height: 900px;
+    height: 960px;
     float: left;
     padding: 20px;
     border: 1px solid rgb(255, 255, 255);
